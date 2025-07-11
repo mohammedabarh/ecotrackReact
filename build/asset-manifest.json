@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecotrackReact/static/css/main.e7f000c6.css",
+    "main.js": "/ecotrackReact/static/js/main.292fbdde.js",
+    "index.html": "/ecotrackReact/index.html",
+    "main.e7f000c6.css.map": "/ecotrackReact/static/css/main.e7f000c6.css.map",
+    "main.292fbdde.js.map": "/ecotrackReact/static/js/main.292fbdde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f000c6.css",
+    "static/js/main.292fbdde.js"
+  ]
+}
