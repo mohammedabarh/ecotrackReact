@@ -11,6 +11,7 @@ import ParticlesBG from "../components/ParticlesBG";
 
 export default function Home() {
   const [showSignup, setShowSignup] = useState(false);
+
   return (
     <div className="relative bg-green-50 dark:bg-gray-900 transition-colors duration-300">
       <ParticlesBG />
